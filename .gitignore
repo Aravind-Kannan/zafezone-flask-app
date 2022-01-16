@@ -1,2 +1,4 @@
 # Remove Credentials:
 env.py
+
+.DS_Store
